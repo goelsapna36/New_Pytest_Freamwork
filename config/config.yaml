@@ -1,0 +1,4 @@
+base_URL: "https://rahulshettyacademy.com/AutomationPractice/"
+browser : "chrome"
+username : "testuser"
+password: "secures pass"
